@@ -29,3 +29,10 @@ torus.area_com<-function(phi1,theta1,phi2,theta2){
 sq.angle<-function(agl){
   vtorus<-torus.area_com(0,0,agl,agl)
 }
+
+
+##################for plotting -pi to pi #########################
+zero_slide<-function(x){
+  dd=as.numeric(x)
+  dd1=(dd-pi)%%(2*pi)-pi
+}
