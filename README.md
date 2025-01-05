@@ -18,4 +18,4 @@ Preprint: https://arxiv.org/pdf/2411.15822
 The data that support the findings of this study are openly available at Kaggle:  
 Source (for Bitcoin): https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd?select=BTC-2017min.csv and 
 (for Ethereum): https://www.kaggle.com/datasets/prasoonkottarathil/ethereum-historical-dataset?select=ETH_1min.csv. 
-The raw data can be processed using the method describe in Section \ref{data proce sec}. If any researcher is interested, the same can be availed on request to the authors.
+The raw data can be processed using the method describe in the paper. If any researcher is interested, the same can be availed on request to the authors.
