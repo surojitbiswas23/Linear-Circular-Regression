@@ -1,4 +1,6 @@
-Title: SEMI-PARAMETRIC LEAST-AREA LINEAR-CIRCULAR REGRESSION THROUGH MOBIUS TRANSFORMATION \\ 
+Title: SEMI-PARAMETRIC LEAST-AREA LINEAR-CIRCULAR REGRESSION THROUGH MOBIUS TRANSFORMATION 
+
+
 Authors: Surojit Biswas and Buddhananda Banerjee.
 
 Abstract: This paper introduces a novel regression model designed for angular response
