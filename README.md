@@ -12,7 +12,7 @@ distributional assumptions about the angular error, enhancing its versatility. E
 robustness of the framework. The model’s practical utility is demonstrated through realworld data analysis of Bitcoin and Ethereum, showcasing its ability to derive meaningful
 insights from complex data structures.
 
-Preprint: https://arxiv.org/pdf/2411.15822
+Journal: https://doi.org/10.1002/sam.70012
 
 
 The data that support the findings of this study are openly available at Kaggle:  
